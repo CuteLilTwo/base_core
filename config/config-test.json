@@ -1,0 +1,25 @@
+{
+  "redis": {
+    "host": "xxxx",
+    "port": "xxxx",
+    "db": 0,
+    "pwd": "xxxx"
+  },
+  "psql": {
+    "host": "xxxxx",
+    "port": "xxxx",
+    "db": "xxxx",
+    "pwd": "xxxx",
+    "user": "xxxx",
+    "sslmode": "disable",
+    "isShow": true
+  },
+  "env": {
+    "env": "dev",
+    "port": ":9099",
+    "host": "http://localhost"
+  },
+  "jwt":{
+    "pwd": ""
+  }
+}
